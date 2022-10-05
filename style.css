@@ -17,7 +17,7 @@ header h1 {
 }
 main h2 {
     color: black;
-    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .container {
     width: 65%;
@@ -48,4 +48,13 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}
+
+.jane-style {
+    color: white;
+}
+
+body {background-color: pink;
+
+
 }
